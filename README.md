@@ -33,7 +33,7 @@
 
 ## 📫 Контакты
 
-Telegram - (@Midas769)
+Telegram - ([@Midas769](@Midas769))
 Email -(serzh.zhirnov.97@gmail.com)
 
 
