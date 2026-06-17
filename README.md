@@ -26,8 +26,8 @@
 | Название | Описание |
 |----------|----------|
 |[QA-samples](https://github.com/Midas769/QA-samples)| Баг-репорты, чек-листы и тест-кейсы (ручное тестирование) |
-|| Фреймворк автотестов на Python + Selenium (UI) |
-|| Решенные SQL-задачи с пояснениями |
+|[Demo-tests](https://github.com/Midas769/Demo-tests)| Фреймворк автотестов на Python + Selenium (UI) |
+|[SQL-practice](https://github.com/Midas769/SQL-practice)| Решенные SQL-задачи с пояснениями |
 
 
 
