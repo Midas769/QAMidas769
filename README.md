@@ -33,8 +33,8 @@
 
 ## 📫 Контакты
 
-[Telegram](@Midas769)
-[[Email](serzh.zhirnov.97@gmail.com)
+Telegram - (@Midas769)
+Email -(serzh.zhirnov.97@gmail.com)
 
 
 
